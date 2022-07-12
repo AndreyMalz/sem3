@@ -1,0 +1,1 @@
+# **Instruction for working with the git version control**
