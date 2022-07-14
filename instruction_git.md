@@ -1,10 +1,19 @@
 # **Instruction for working with the git version control**
 
+General information on Git
+
 ## Repository initialization
+
+To initialize the repository you need to enter the command: 
+   
+    git init
+    
 
 ## Checking the status of a repository
 
-## Adding versioning
+To check the status of the repository you need to enter the command: 
+
+    git status
 
 ## Fixing changes
 
