@@ -17,6 +17,11 @@ To check the status of the repository you need to enter the command:
 
 ## Fixing changes
 
+To commit the changes enter the command: 
+
+    git add _____
+ (name of repository, *enter the first letters of the name andr press Tab to simplify input*)
+
 ## View commit history
 
 ## Switching between versions
