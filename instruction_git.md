@@ -32,7 +32,9 @@ To view the commit history enter:
 
 ## Switching between versions
  To switch  between commit versions type:
-    git checkout
+
+    git checkout _commitID_ 
+( *the first five symbols of the commit ID are sufficient* )
 
 ## View unconfirmed changes made after the last commit
 
