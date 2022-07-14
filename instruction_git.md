@@ -14,11 +14,15 @@ To check the status of the repository you need to enter the command:
     git status
 
 ## Fixing changes
-To commit the changes enter the command: 
+I. To commit the changes enter the command: 
 
     git add _____
  (name of repository, *enter the first letters of the name andr press Tab to simplify input*)
 
+II. Then save the new commit:
+
+    git commit -m "_commitname_" 
+ 
 ## View commit history
 To view the commit history enter:
 
@@ -26,10 +30,9 @@ To view the commit history enter:
     git log --oneline 
  ( *to display commits compactly* )
 
-
-
-
 ## Switching between versions
+ To switch  between commit versions type:
+    git checkout
 
 ## View unconfirmed changes made after the last commit
 
