@@ -25,3 +25,5 @@ To commit the changes enter the command:
 ## View commit history
 
 ## Switching between versions
+
+## View unconfirmed changes made after the last commit
