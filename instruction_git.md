@@ -27,3 +27,5 @@ To commit the changes enter the command:
 ## Switching between versions
 
 ## View unconfirmed changes made after the last commit
+
+## Comparing files in two commits
