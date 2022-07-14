@@ -37,5 +37,8 @@ To view the commit history enter:
 ( *the first five symbols of the commit ID are sufficient* )
 
 ## View unconfirmed changes made after the last commit
+To view unconfirmed changes enter:
 
+    git diff
+    
 ## Comparing files in two commits
