@@ -1,6 +1,7 @@
 # **Instruction for working with the git version control**
 
 **General information on Git**
+![logo](i.webp)
 
 * ## Repository initialization
 To initialize the repository you need to enter the command: 
