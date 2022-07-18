@@ -57,8 +57,6 @@ To create new branch enter:
     git branch _name_
 
 * ## Merge Branches
-
-* ## Merge Branches
 To merge the current branch with another type enter command:
 
     git merge _namemergebranch_
