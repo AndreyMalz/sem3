@@ -49,9 +49,11 @@ To compare changes in 2 commits enter:
 ( *the first five symbols of the commit ID are sufficient* )
 
 * ## Branching
-
 Branching in git allows us to work on different tasks in parallel
 
 * ## Create new Branch
 
 * ## Merge Branches
+To merge the current branch with another type enter command:
+
+    git merge _namemergebranch_
