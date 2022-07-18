@@ -48,7 +48,7 @@ To compare changes in 2 commits enter:
     git diff _1commitID_ _2commitID_
 ( *the first five symbols of the commit ID are sufficient* )
 
-* ## Branching
+## Branching
 Branching in git allows us to work on different tasks in parallel
 
 * ## Create new Branch
