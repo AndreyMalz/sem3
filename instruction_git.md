@@ -53,3 +53,5 @@ To compare changes in 2 commits enter:
 Branching in git allows us to work on different tasks in parallel
 
 * ## Create new Branch
+
+* ## Merge Branches
