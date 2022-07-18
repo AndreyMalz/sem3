@@ -61,6 +61,11 @@ To create new branch enter:
 
     git branch _name_
 
+* ## Switch branch
+To switch branch enter:
+
+    git checkout _branch_name_
+
 * ## Merge Branches
 To merge the current branch with another type enter command:
 
