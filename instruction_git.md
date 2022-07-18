@@ -71,6 +71,11 @@ To merge the current branch with another type enter command:
 
     git merge _namemergebranch_
 
+* ## Unmerged info
+To see what information  didn't merge enter command:
+
+    git status
+
 * ## Removal of branches
 To delete the branch enter:
 
