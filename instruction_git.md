@@ -51,6 +51,11 @@ To compare changes in 2 commits enter:
 ## Branching
 Branching in git allows us to work on different tasks in parallel
 
+* ## Branch list
+To display active branches type:
+
+    git branch
+
 * ## Create new Branch
 To create new branch enter:
 
@@ -65,3 +70,5 @@ To merge the current branch with another type enter command:
 To delete the branch enter:
 
     git branch -d _branch_name_
+
+===
