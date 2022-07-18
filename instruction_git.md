@@ -28,7 +28,7 @@ II. Then save the new commit:
 To view the commit history enter:
 
     git log   or  
-    git log --oneline 
+    git log --oneline --graph
  ( *to display commits compactly* )
 
 * ## Switching between versions
