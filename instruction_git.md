@@ -62,3 +62,5 @@ To merge the current branch with another type enter command:
     git merge _namemergebranch_
 
 * ## Delete branches
+
+How to delete the branch? 
