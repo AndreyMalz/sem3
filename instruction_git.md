@@ -80,3 +80,7 @@ To see what information  didn't merge enter command:
 To delete the branch enter:
 
     git branch -d _branch_name_
+
+## The removed repositories
+
+The removed repository is a cloudy storehouse of my files
