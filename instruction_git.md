@@ -83,4 +83,4 @@ To delete the branch enter:
 
 ## The removed repositories
 
-The removed repository is a cloudy storehouse of my files
+The removed repository is a cloudy storehouse of my files. Allows to work from anywhere in the world where the Inernet is available.
